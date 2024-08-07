@@ -1,2 +1,2 @@
-# Java-exercices
- Java codes from courses
+# Java
+ Exercices from Java courses
