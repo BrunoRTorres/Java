@@ -1,2 +1,2 @@
 # Java
- Exercices from Java courses
+ Exercises from Java courses
